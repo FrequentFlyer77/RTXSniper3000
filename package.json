@@ -1,0 +1,16 @@
+{
+  "name": "rtxchecker",
+  "version": "1.0.0",
+  "description": "A simple nodejs RTX 3070 / 3080 checker.",
+  "main": "src/check.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kenichycmd",
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.51.0",
+    "opn": "^6.0.0",
+    "puppeteer": "^5.5.0"
+  }
+}
